@@ -1,0 +1,44 @@
+header {
+    background: transparent;
+    transition: all ease 0.5s;   
+    background-color: transparent;
+    }
+
+    body {
+        background-color: rgb(93, 7, 7);
+    }
+    body h1, h2, h6 {
+        color: white;
+        
+    }
+
+    nav ul {
+    list-style-type: none;
+  }
+  
+  nav ul li {
+    display: inline;
+    margin-right: 20px;
+  }
+  
+  nav ul li:last-child {
+    margin-right: 0;
+  }
+  
+
+    nav ul li a {
+    color: white;
+    text-decoration: none;
+    }
+
+    footer {
+        margin-top: 10px;
+    background-color: rgb(11, 11, 11);
+    color: rgb(250, 248, 248);
+    padding: 10px 10px;
+    text-align: center;
+    }
+
+        .container section {
+            align-items: end;
+        }
